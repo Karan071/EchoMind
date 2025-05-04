@@ -18,6 +18,7 @@ This project is a modern web application built using **React**, **TypeScript**, 
 - **Tailwind CSS** – Utility-first CSS framework
 - **Web Speech API** – For real-time speech recognition
 - **MediaDevices API** – For accessing webcam video
+- **Node** - For the backend api's
 
 ## 📦 Installation
 
@@ -36,5 +37,11 @@ This project is a modern web application built using **React**, **TypeScript**, 
    git clone git@github.com:Karan071/EchoMind.git
    cd server
    npm install
-   npm run dev
+   npm run start
+   ```
+
+
+   API key details for easy access
+   ```bash
+   TOGETHER_API_KEY='ebbbed9a1b0b2ec3413bc8b4c5d158b5760463a9aee26ab5a8d93312acd26c7a'
    ```
