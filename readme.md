@@ -41,6 +41,6 @@ This project is a modern web application built using **React**, **TypeScript**, 
    ```
 
 Note: 
- Set up the Api key in server/.env for backend functionality
+ Set up the Api key from *TogetherAi* in server/.env for backend functionality
 
 
