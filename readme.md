@@ -41,7 +41,3 @@ This project is a modern web application built using **React**, **TypeScript**, 
    ```
 
 
-   API key details for easy access
-   ```bash
-   TOGETHER_API_KEY='ebbbed9a1b0b2ec3413bc8b4c5d158b5760463a9aee26ab5a8d93312acd26c7a'
-   ```
