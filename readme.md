@@ -40,4 +40,7 @@ This project is a modern web application built using **React**, **TypeScript**, 
    npm run start
    ```
 
+Note: 
+ Set up the Api key in server/.env for backend functionality
+
 
